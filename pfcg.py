@@ -4,7 +4,7 @@ import sys
 import numpy as np 
 import matplotlib.pyplot as plt
 
-"""
+
 num_beams = int(input("input num_beams: "))
 min_radius = int(input("input min_radius: "))
 max_radius = int(input("input max_radius: "))
@@ -12,7 +12,7 @@ max_radius = int(input("input max_radius: "))
 num_beams = 16
 min_radius = 7
 max_radius = 13
-
+"""
 
 average_angle_error = 0
 max_angle_error = 0
