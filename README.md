@@ -4,4 +4,14 @@ Place the "packs" folder in C:\Users\{NAME}\AppData\Roaming\.minecraft\saves\{WO
 If you want to add more functions then add them to the most nested file.
 Use /function to activate.
 
+
+
+input num_beams: 96
+input min_radius: 16
+input max_radius: 26
+
 ![text](Figure.png)
+
+angle between beams in degrees: 3.75
+average angle error in degrees: 0.1308 3.49%
+max angle error in degrees: 0.3151 8.4%
