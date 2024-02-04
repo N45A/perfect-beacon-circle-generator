@@ -5,10 +5,12 @@ Place the "packs" folder in C:\Users\{NAME}\AppData\Roaming\.minecraft\saves\{WO
 If you want to add more functions then add them to the most nested file.  
 Use /function to activate.  
 
+Inpuit:  
 input num_beams: 96  
 input min_radius: 16  
 input max_radius: 26  
 
+Output:  
 ![text](Figure.png)  
 
 angle between beams in degrees: 3.75  
