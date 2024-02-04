@@ -6,7 +6,7 @@ https://cdn.discordapp.com/attachments/831143726873182208/1203834304661168209/pf
 + Use /function to activate.  
   
   
-Inpuit:  
+Input:  
 
 input num_beams: 96  
 input min_radius: 16  
