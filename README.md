@@ -1,4 +1,4 @@
-EXE download with "packs" file:  
+EXE download:  
 https://drive.google.com/file/d/1JTFMY5TO1-6SY4Cf7JMOY0K0M8CgCtT_/
 
 Files are saved in your schematic folder, if it exists. Else, it will be saved in the current directory.
