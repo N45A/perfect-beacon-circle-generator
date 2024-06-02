@@ -6,14 +6,14 @@ Files are saved in your schematic folder, if it exists. Else, it will be saved i
 
 Example input:  
 
-number of beams: 96
-min radius: 13
-max radius: 23
-number of colors: 3
-input colors in HEX (without #)
-nr. 1: FF0000
-nr. 2: 00FF00
-nr. 3: 0000FF
+number of beams: 96\
+min radius: 13\
+max radius: 23\
+number of colors: 3\
+input colors in HEX (without #)\
+nr. 1: FF0000\
+nr. 2: 00FF00\
+nr. 3: 0000FF\
 processing...
 
 
