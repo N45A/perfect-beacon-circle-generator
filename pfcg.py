@@ -8,11 +8,12 @@ number_of_beams = int(input("number of beams: "))
 min_radius = int(input("min radius: "))
 max_radius = int(input("max radius: "))
 number_of_colors = int(input("number of colors: "))
-print("input colors in HEX (without #)")
 
-colors = []
-for color in range(number_of_colors):
-    colors.append(input(f"nr. {color+1}: "))
+if number_of_colors != 0:
+    print("input colors in HEX (without #)")
+    colors = []
+    for color in range(number_of_colors):
+        colors.append(input(f"nr. {color+1}: "))
 
 print("\nprocessing...")
 
@@ -138,3 +139,4 @@ schematic = mcschematic.MCSchematic()
 
 place_blocks()
 save_schematic()
+input()
