@@ -1,22 +1,24 @@
 EXE download with "packs" file:  
-https://cdn.discordapp.com/attachments/831143726873182208/1203834304661168209/pfcg.zip?ex=65d28910
+https://drive.google.com/file/d/1JTFMY5TO1-6SY4Cf7JMOY0K0M8CgCtT_
 
-+ Place the "packs" folder in C:\Users\{NAME}\AppData\Roaming\.minecraft\saves\{WORLD}\datapacks  
-+ If you want to add more functions then add them to the most nested file.  
-+ Use /function to activate.  
-  
-  
-Input:  
+Files are saved in your schematic folder, if it exists. Else, it will be saved in the current directory.
 
-input num_beams: 96  
-input min_radius: 16  
-input max_radius: 26  
+
+Example input:  
+
+number of beams: 96
+min radius: 13
+max radius: 23
+number of colors: 3
+input colors in HEX (without #)
+nr. 1: FF0000
+nr. 2: 00FF00
+nr. 3: 0000FF
+processing...
+
 
 Output:  
 
-![text](Figure.png)  
-
-angle between beams in degrees: 3.75  
-average angle error in degrees: 0.1308 3.49%  
-max angle error in degrees: 0.3151 8.4%  
-\+ One .mcfunction file
+File saved: {dir}
+![text](Figure0.png)
+![text](Figure1.png)
