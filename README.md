@@ -1,4 +1,5 @@
 Files are saved in your schematic folder, if it exists. Else, it will be saved in the current directory.
+If the program closes w/o output, then you need bigger radius (there is a message for that but it closes too fast).
 
 
 Example input:  
