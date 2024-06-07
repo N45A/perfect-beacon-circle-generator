@@ -20,3 +20,10 @@ Output:
 File saved: {dir}
 ![text](Figure0.png)
 ![text](Figure1.png)
+
+Big thanks for creators of these videos for giving me the idea:
+https://youtu.be/nJlZT5AE9zY
+https://youtu.be/VcsEm7FnheU
+
+Someone else who made something similar a bit earlier:
+https://github.com/Evolved-Cow-Man/minecraft-beacon-util ****
